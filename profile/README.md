@@ -1,6 +1,6 @@
 ## Hihi! 👋
 
-The next con is April 12 - 14! | Free to attend! \
+Next con: April 12 - 14! | Free to attend! | Owned by: [@TheUnifox](https://github.com/TheUnifox) \
 Feel free to share the con around! We would love for you to help us grow! \
  \
 This is the official GitHub for The Energetic Convention! \
