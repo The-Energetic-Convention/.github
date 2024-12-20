@@ -1,6 +1,6 @@
 ## Hihi! 👋
 
-Next con: April 12 - 14! | Free to attend! | Owned by: [@TheUnifox](https://github.com/TheUnifox) \
+Next con: April 4 - 6! | Free to attend! | Owned by: [@TheUnifox](https://github.com/TheUnifox) \
 Feel free to share the con around! We would love for you to help us grow! \
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/n3rk.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
